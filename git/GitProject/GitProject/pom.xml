@@ -5,4 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>GithubProject</name>
+  <build>
+  	<finalName>GitProject</finalName>
+  </build>
 </project>
